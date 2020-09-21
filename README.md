@@ -8,7 +8,7 @@
 ### I am Raúl
 - *Software Engineering student at Rey Juan Carlos University*
 - *Willing to do a Master in Artificial Intelligence*
-### know more about me: 
+### Know more about me: 
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
   <img align="center" alt="Raul Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
