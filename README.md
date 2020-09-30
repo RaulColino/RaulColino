@@ -12,12 +12,11 @@
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
   <img align="left"  width="22px" alt="Raul Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<!--
 <a href="mailto:raulcs4dev@gmail.com" target="_blank">
   <img align="left"  width="22px" alt="Raul Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />
 </a>
-
-
-<!--
 ### I like
 * Technology and software
 * Sports
