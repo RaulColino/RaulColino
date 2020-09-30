@@ -9,7 +9,7 @@
 - *Software Engineering student at Rey Juan Carlos University*
 - *Willing to do a Master in Artificial Intelligence*
 
-### My passions
+### I like
 
 * Technology and software
 * Sports
