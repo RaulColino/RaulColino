@@ -6,7 +6,7 @@
 
 ### I am Raúl
 - *Software Engineer and MSCS student at Rey Juan Carlos University*
-- *Interested in Artificial Intelligence, Full Stack development, Backend development and Computer Graphics*
+- *Interested in Artificial Intelligence, Full Stack development, Backend development, Mobile development and Computer Graphics*
 
 ### Know more about me: 
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
