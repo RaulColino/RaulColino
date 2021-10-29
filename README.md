@@ -5,7 +5,7 @@
 <br />
 
 ### I am Raúl
-- *Software Engineering student at Rey Juan Carlos University*
+- *Software Engineer and MSCS student at Rey Juan Carlos University*
 - *Interested in Artificial Intelligence, Full Stack development, Backend development and Computer Graphics*
 
 ### Know more about me: 
