@@ -12,6 +12,10 @@
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
   <img align="center" src="https://raw.githubusercontent.com/RaulColino/RaulColino/cd2c5eab94e2d4521f3f48368fc08c845df52c1a/linkedin.svg" alt="linkedin-raul" height="60" width="80" style="max-width: 100%;">
 </a>
+
+<!--## Common languages used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulColino&theme=vue)-->
+
 <!--
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
   <img align="left"  width="22px" alt="Raul Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
