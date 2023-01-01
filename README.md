@@ -1,8 +1,6 @@
-### Hi everyone! 👋
+## Hi everyone! 👋
 
-<img align="right" alt="Computer GIF" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" />
-
-<br>
+<img align="center" width="50%" alt="Computer GIF" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" />
 
 ### I am Raúl
 - *Software Engineer and MSCS student at Rey Juan Carlos University*
@@ -43,7 +41,6 @@
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
   <img align="center" src="https://raw.githubusercontent.com/RaulColino/RaulColino/cd2c5eab94e2d4521f3f48368fc08c845df52c1a/linkedin.svg" alt="linkedin-raul" height="60" width="80" style="max-width: 100%;">
 </a>
-
 <!--![](https://visitor-badge.glitch.me/badge?page_id=RaulColino.RaulColino)-->
 
 <!--## Common languages used
