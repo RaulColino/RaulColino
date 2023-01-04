@@ -1,15 +1,19 @@
-## Hi everyone! 👋
+<div float="left" align="middle">
+
+  ## Hi everyone! 👋
 
 <img align="center" width="50%" alt="Computer GIF" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" />
 
 ### I am Raúl
-- *Software Engineer and MSCS student at Rey Juan Carlos University*
-- *I love programming in general but I'm trying to focus on Full Stack, Backend and Mobile development*
+<i> Software Engineer and MSCS student at Rey Juan Carlos University </i>
+<br>
+<i> I love programming in general! You can see me doing Full Stack, Backend and Mobile development </i>
 
 <br>
 
-<h3>Tech I use</h3>
+<h3>Currently working with:</h3>
 <p>
+  <!-- Check awesome badges if you want to edit this: https://github.com/Envoy-VC/awesome-badges -->
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-61c9f9?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -20,14 +24,14 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dart&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4477a0?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-446ea0?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-664ff0?style=flat-square&logo=webassembly&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6699?style=flat-square" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-CC6699?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ff471a?style=flat-square&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-F05032?style=flat-square&logo=rust&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f4841b?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f3d500?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-71ad42?style=flat-square&logo=springboot&logoColor=white" />
@@ -41,6 +45,8 @@
 <a href="https://es.linkedin.com/in/ra%C3%BAl-colino-singh-a091291b2">
   <img align="center" src="https://raw.githubusercontent.com/RaulColino/RaulColino/cd2c5eab94e2d4521f3f48368fc08c845df52c1a/linkedin.svg" alt="linkedin-raul" height="60" width="80" style="max-width: 100%;">
 </a>
+  </div>
+
 <!--![](https://visitor-badge.glitch.me/badge?page_id=RaulColino.RaulColino)-->
 
 <!--## Common languages used
