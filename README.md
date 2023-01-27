@@ -7,7 +7,7 @@
 ### I am Raúl
 <i> Software Engineer and MSCS student at Rey Juan Carlos University </i>
 <br>
-<i> I love programming in general! You can see me doing Full Stack, Backend and Mobile development </i>
+<i> I love programming in general! You can see me doing Frontend, Backend or Mobile development </i>
 
 <br>
 
