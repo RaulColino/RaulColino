@@ -5,9 +5,9 @@
 <img align="center" width="50%" alt="Computer GIF" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" />
 
 ### I am Raúl
-<i> 💻 A Software Engineer who thrives on turning ideas into real-world applications </i>
+<i> A Software Engineer who thrives on turning ideas into real-world applications </i>
 <br>
-<i> I love programming in general! While my main focus is Mobile development, I also enjoy working on Frontend and Backend projects. </i>
+<i> I love programming in general! Although my main focus is mobile development, I also enjoy working across the stack, from frontend interfaces to backend systems </i>
 
 <br>
 
