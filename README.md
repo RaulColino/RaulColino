@@ -5,9 +5,9 @@
 <img align="center" width="50%" alt="Computer GIF" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" />
 
 ### I am Raúl
-<i> Software Engineer and MSCS student at Rey Juan Carlos University </i>
+<i> 💻 A Software Engineer who thrives on turning ideas into real-world applications </i>
 <br>
-<i> I love programming in general! You can see me doing Frontend, Backend or Mobile development </i>
+<i> I love programming in general! While my main focus is Mobile development, I also enjoy working on Frontend and Backend projects. </i>
 
 <br>
 
